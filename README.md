@@ -52,8 +52,8 @@ https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml
 ## 🛟 Support
 
 Email: support@joomtheme.com  
-Documentation: https://joomtheme.com/documentation  
-Contact: https://joomtheme.com/contact  
+Documentation: https://joomtheme.com/joomla-support/documentation  
+Contact: https://joomtheme.com/joomla-support/contact  
 
 ---
 
