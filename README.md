@@ -1,8 +1,13 @@
 # JT Smart Popup Modal for Joomla 6
 
-A lightweight and modern Bootstrap 5 powered popup module for Joomla 6.
+![Joomla](https://img.shields.io/badge/Joomla-6.x-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
+![License](https://img.shields.io/badge/License-GPLv2+-green)
+![Version](https://img.shields.io/badge/Version-1.0.6-orange)
 
-Designed for developers, agencies and business owners who need a clean and flexible modal solution without heavy dependencies.
+A modern, lightweight and performance-focused popup module for Joomla 6.
+
+Built natively with Bootstrap 5 and designed for developers, agencies and business owners who need a clean modal solution without heavy dependencies.
 
 ---
 
@@ -15,24 +20,23 @@ Designed for developers, agencies and business owners who need a clean and flexi
 - Bootstrap 5 native
 - Optional full-bleed layout
 - Clean and maintainable structure
-- Joomla 6 compatible
 
 ---
 
-## 🎯 Use Cases
+## 🎯 Perfect For
 
 - Announcements
 - Promotions
 - Marketing campaigns
-- Custom HTML content
 - Newsletter forms
+- Custom HTML content
 - Product highlights
 
 ---
 
 ## 📦 Installation
 
-1. Download the latest release ZIP.
+1. Download the latest release ZIP from the Releases section.
 2. Go to **Joomla Administrator → Extensions → Install**.
 3. Upload the ZIP file.
 4. Enable the module.
@@ -45,23 +49,22 @@ Designed for developers, agencies and business owners who need a clean and flexi
 This extension supports Joomla’s native update system.
 
 Update server:
+
 https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml
 
 ---
 
 ## 🛟 Support
 
-Email: support@joomtheme.com  
-Documentation: https://joomtheme.com/joomla-support/documents  
-Contact: https://joomtheme.com/joomla-support/contact  
+- Email: support@joomtheme.com  
+- Documentation: https://joomtheme.com/joomla-support/documents  
+- Contact: https://joomtheme.com/joomla-support/contact
 
 ---
 
 ## 📄 License
 
-This extension is released under the GNU General Public License v2 or later.
-
----
+Released under the GNU General Public License v2 or later.
 
 Joomla is a registered trademark of Open Source Matters, Inc.  
 This project is not affiliated with or endorsed by them.
