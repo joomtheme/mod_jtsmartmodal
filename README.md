@@ -1,9 +1,7 @@
 # JT Smart Popup Modal for Joomla 6
 
-![Joomla](https://img.shields.io/badge/Joomla-6.x-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
-![License](https://img.shields.io/badge/License-GPLv2+-green)
-![Version](https://img.shields.io/badge/Version-1.0.6-orange)
+![Joomla](https://img.shields.io/badge/Joomla-6-blue)
+![License](https://img.shields.io/badge/license-GPL%20v2%2B-green)
 
 A modern, lightweight and performance-focused popup module for Joomla 6.
 
@@ -63,8 +61,9 @@ https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml
 ---
 
 ## 📄 License
+This extension is released under the GNU General Public License version 2 or later (GPL-2.0+).
 
-Released under the GNU General Public License v2 or later.
+You are free to use, modify, and distribute this software under the terms of the GPL license.
 
-Joomla is a registered trademark of Open Source Matters, Inc.  
+Joomla is a registered trademark of Open Source Matters, Inc.
 This project is not affiliated with or endorsed by them.
