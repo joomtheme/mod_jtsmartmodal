@@ -11,6 +11,9 @@
                 https://github.com/joomtheme/mod_jtsmartmodal/releases/download/v1.0.6/mod_jtsmartmodal_v1.0.6.zip
             </downloadurl>
         </downloads>
+
+        <sha256>9589e4f18b6cdaba10a9cc7ec7d9c9bdf25c4e85158e7c3b92a1cc447bd51d58</sha256>
+        
         <targetplatform name="joomla" version="6.*" />
     </update>
 </updates>
