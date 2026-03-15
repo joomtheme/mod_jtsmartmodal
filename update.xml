@@ -12,7 +12,7 @@
             </downloadurl>
         </downloads>
 
-        <sha256>9589e4f18b6cdaba10a9cc7ec7d9c9bdf25c4e85158e7c3b92a1cc447bd51d58</sha256>
+        <sha256>366a5e9b7a68df46145c52801f512226b1f66ec0ebe91301d06833e3bbd96473</sha256>
         
         <targetplatform name="joomla" version="6.*" />
     </update>
