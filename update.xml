@@ -6,15 +6,14 @@
         <element>mod_jtsmartmodal</element>
         <type>module</type>
         <client>site</client>
-        <version>1.0.11</version>
+        <version>1.0.12</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/joomtheme/mod_jtsmartmodal/releases/download/v1.0.11/mod_jtsmartmodal_v1.0.11_compat.zip
-</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/joomtheme/mod_jtsmartmodal/releases/download/v1.0.12/mod_jtsmartmodal_v1.0.12_bridge.zip</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
         </tags>
-        <sha256>0d37ad11a80e6a9451dc391035e604eb76de22a18797f1254d0ae65aa8bbb349</sha256>
+        <sha256>572dcea8f2601d0976497aeed618bc51fd9cc29a71866d9e75f7fa036ce2553f</sha256>
         <targetplatform name="joomla" version="6\..*" />
         <php_minimum>8.3</php_minimum>
     </update>
