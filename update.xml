@@ -13,7 +13,7 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <sha256>9d945377d42a5ab84b3e2c2c8ab0f23c820e8ee60b5bcf8932793240077fa0eb</sha256>
+        <sha256>84f4893c05b2ab76b0f54b6a3a775a99f2fa30c5474f8fc2ab0e16c1ee5578ed</sha256>
         <targetplatform name="joomla" version="6\..*" />
         <php_minimum>8.3</php_minimum>
     </update>
