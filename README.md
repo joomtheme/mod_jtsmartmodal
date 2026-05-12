@@ -72,8 +72,7 @@ https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml
 
 ### 🛟 Support
 
-- Email: support@joomtheme.com
-- Documentation: https://joomtheme.com/docs
+- Issues: https://github.com/joomtheme/mod_jtsmartmodal/issues
 - Contact: https://joomtheme.com/contact
 
 ---
@@ -159,8 +158,6 @@ https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml
 
 ### 🛟 Destek
 
-- E-posta: support@joomtheme.com
-- Dokümantasyon: https://joomtheme.com/docs
 - İletişim: https://joomtheme.com/contact
 
 ---
