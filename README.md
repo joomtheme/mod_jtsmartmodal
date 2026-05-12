@@ -1,25 +1,28 @@
 # JT Smart Popup Modal for Joomla 6
 
 ![Joomla](https://img.shields.io/badge/Joomla-6-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
 ![License](https://img.shields.io/badge/license-GPL%20v2%2B-green)
 
-## English
-
-A modern, lightweight, and performance-focused popup module for Joomla 6.
+A modern, lightweight, and performance-focused popup modal module for Joomla 6.
 
 Built natively with Bootstrap 5 and designed for developers, agencies, and business owners who need a clean modal solution without heavy dependencies.
 
 ---
 
+## English
+
 ### ✨ Features
 
-- Timed display (open after X seconds)
+- Timed display: open the modal after X seconds
 - Optional auto close
 - Countdown support
 - Multilingual ready
-- Bootstrap 5 native
+- Bootstrap 5 native modal support
 - Optional full-bleed layout
-- Clean and maintainable structure
+- Clean and maintainable Joomla module structure
+- Lightweight frontend assets
+- Joomla native update system support
 
 ---
 
@@ -31,16 +34,27 @@ Built natively with Bootstrap 5 and designed for developers, agencies, and busin
 - Newsletter forms
 - Custom HTML content
 - Product highlights
+- Important notices
+- Seasonal offers
 
 ---
 
 ### 📦 Installation
 
-1. Download the latest release ZIP from the Releases section.
-2. Go to **Joomla Administrator → Extensions → Install**.
+1. Download the latest release ZIP from the **Releases** section.
+2. Go to **Joomla Administrator → System → Install → Extensions**.
 3. Upload the ZIP file.
-4. Enable the module.
-5. Configure the settings as needed.
+4. Go to **Content → Site Modules**.
+5. Find and enable **JT Smart Popup Modal**.
+6. Configure the module settings as needed.
+
+---
+
+### ⚙️ Requirements
+
+- Joomla 6.x
+- PHP version supported by your Joomla 6 installation
+- Bootstrap 5 loaded by your Joomla template or Joomla core assets
 
 ---
 
@@ -48,8 +62,11 @@ Built natively with Bootstrap 5 and designed for developers, agencies, and busin
 
 This extension supports Joomla’s native update system.
 
-Update server:  
-`https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml`
+Update server:
+
+```text
+https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml
+```
 
 ---
 
@@ -63,18 +80,20 @@ Update server:
 
 ### 📄 License
 
-This extension is released under the GNU General Public License version 2 or later (GPL-2.0+).
+This extension is released under the GNU General Public License version 2 or later.
+
+License: **GPL-2.0-or-later**
 
 You are free to use, modify, and distribute this software under the terms of the GPL license.
 
 Joomla is a registered trademark of Open Source Matters, Inc.  
-This project is not affiliated with or endorsed by them.
+This project is not affiliated with or endorsed by Open Source Matters, Inc.
 
 ---
 
 ## Türkçe
 
-Joomla 6 için modern, hafif ve performans odaklı bir popup modülüdür.
+Joomla 6 için modern, hafif ve performans odaklı bir popup modal modülüdür.
 
 Bootstrap 5 ile native olarak geliştirilmiştir. Ağır bağımlılıklar olmadan temiz bir modal çözümü isteyen geliştiriciler, ajanslar ve işletme sahipleri için tasarlanmıştır.
 
@@ -82,13 +101,15 @@ Bootstrap 5 ile native olarak geliştirilmiştir. Ağır bağımlılıklar olmad
 
 ### ✨ Özellikler
 
-- Zaman kontrollü gösterim (X saniye sonra açılır)
+- Zaman kontrollü gösterim: modalı X saniye sonra açma
 - İsteğe bağlı otomatik kapanma
 - Geri sayım desteği
-- Çok dilli kullanıma uygun
-- Bootstrap 5 uyumlu
+- Çok dilli kullanıma uygun yapı
+- Bootstrap 5 native modal desteği
 - İsteğe bağlı full-bleed görünüm
-- Temiz ve sürdürülebilir yapı
+- Temiz ve sürdürülebilir Joomla modül yapısı
+- Hafif frontend dosyaları
+- Joomla yerleşik güncelleme sistemi desteği
 
 ---
 
@@ -100,16 +121,27 @@ Bootstrap 5 ile native olarak geliştirilmiştir. Ağır bağımlılıklar olmad
 - Bülten / form gösterimleri
 - Özel HTML içerikler
 - Ürün öne çıkarımları
+- Önemli bilgilendirmeler
+- Dönemsel teklifler
 
 ---
 
 ### 📦 Kurulum
 
-1. Releases bölümünden en güncel ZIP paketini indirin.
-2. **Joomla Yönetim Paneli → Extensions → Install** bölümüne gidin.
+1. **Releases** bölümünden en güncel ZIP paketini indirin.
+2. **Joomla Yönetim Paneli → Sistem → Kurulum → Eklentiler** bölümüne gidin.
 3. ZIP dosyasını yükleyin.
-4. Modülü etkinleştirin.
-5. Ayarları ihtiyacınıza göre yapılandırın.
+4. **İçerik → Site Modülleri** bölümüne gidin.
+5. **JT Smart Popup Modal** modülünü bulun ve etkinleştirin.
+6. Modül ayarlarını ihtiyacınıza göre yapılandırın.
+
+---
+
+### ⚙️ Gereksinimler
+
+- Joomla 6.x
+- Joomla 6 kurulumunuz tarafından desteklenen PHP sürümü
+- Joomla template’iniz veya Joomla core asset yapısı üzerinden Bootstrap 5 desteği
 
 ---
 
@@ -117,8 +149,11 @@ Bootstrap 5 ile native olarak geliştirilmiştir. Ağır bağımlılıklar olmad
 
 Bu eklenti Joomla’nın yerleşik güncelleme sistemini destekler.
 
-Güncelleme sunucusu:  
-`https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml`
+Güncelleme sunucusu:
+
+```text
+https://raw.githubusercontent.com/joomtheme/mod_jtsmartmodal/main/update.xml
+```
 
 ---
 
@@ -132,9 +167,11 @@ Güncelleme sunucusu:
 
 ### 📄 Lisans
 
-Bu eklenti GNU General Public License version 2 or later (GPL-2.0+) lisansı ile sunulmaktadır.
+Bu eklenti GNU General Public License version 2 or later lisansı ile sunulmaktadır.
+
+Lisans: **GPL-2.0-or-later**
 
 Bu yazılımı GPL lisans şartları altında kullanabilir, değiştirebilir ve dağıtabilirsiniz.
 
 Joomla, Open Source Matters, Inc. kuruluşunun tescilli markasıdır.  
-Bu proje onlarla bağlantılı değildir ve onlar tarafından onaylanmamaktadır.
+Bu proje Open Source Matters, Inc. ile bağlantılı değildir ve onlar tarafından onaylanmamaktadır.
